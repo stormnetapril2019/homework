@@ -27,10 +27,10 @@
     </leaf>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1482" />
-    <option name="y" value="177" />
-    <option name="width" value="1440" />
-    <option name="height" value="825" />
+    <option name="x" value="1440" />
+    <option name="y" value="-197" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -53,6 +53,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
